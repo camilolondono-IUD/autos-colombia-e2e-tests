@@ -1,0 +1,21 @@
+﻿# Dependencias
+node_modules/
+
+# Reportes y resultados de Playwright
+/test-results/
+/playwright-report/
+/blob-report/
+/playwright/.cache/
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Editores
+.vscode/
+.idea/
+
+# Variables de entorno
+.env
+.env.local
